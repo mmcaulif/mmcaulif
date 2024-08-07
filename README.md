@@ -3,7 +3,7 @@
 My Name is Manus. I am a budding researcher with a varied range of interests and skills. At the moment, I am particularly interested in plasticity in deep reinforcement learning (RL), but also (possibly) related phenomena like policy churn, catastrophic forgetting. Broader interests are reinforcement learning, computer vision, mathematics, programming to name a few. I attended Trinity College Dublin where I graduated with a masters and bachelors in engineering.
 
 Currently:
-* Intern Research Engineer at [Instadeep](https://www.instadeep.com/research/) (large-scale RL, protein langauge models, active learning)
+* Intern Research Engineer at [Instadeep](https://www.instadeep.com/research/) (large-scale RL, protein language models, active learning)
   
 Previously:
 * Intern Research Engineer at [Sony AI](https://ai.sony) (offline RL, continuous control, robotics)
