@@ -8,7 +8,7 @@ Currently:
 Previously:
 * Intern Research Engineer at [Instadeep](https://www.instadeep.com/research/) (large-scale RL, protein language models, quantum machine learning)
 * Intern Research Engineer at [Sony AI](https://ai.sony) (offline RL, continuous control, robotics)
-* Intern Machine Learning Engineer at [Provizio](https://provizio.ai) (convolutional/recurrent/transformer architectures, supersampling for pointcloud data)
+* Intern Machine Learning Engineer at [Provizio](https://provizio.ai) (convolutional/recurrent/transformer architectures, supersampling)
 * Research Assistant [TCD Electronic Engineering Department](https://www.tcd.ie/eleceng/) (cyberphysical systems, optimal control)
 * Team Lead for Reinforcement Learning in [Formula Trinity Autonomous](https://ie.linkedin.com/company/formula-trinity)
 
