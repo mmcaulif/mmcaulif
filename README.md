@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My Name is Manus. I am a budding researcher with a varied range of interests and skills. At the moment, I am particularly interested in plasticity in deep reinforcement learning (RL), but also (possibly) related phenomena like policy churn, catastrophic forgetting. Broader interests are reinforcement learning, computer vision, mathematics, programming to name a few. I attended Trinity College Dublin where I graduated with a masters and bachelors in engineering.
+My Name is Manus. I am a budding researcher with a varied range of interests and skills. At the moment, I am particularly interested in plasticity in deep reinforcement learning (RL), but also (possibly) related phenomena like tandem effect, primacy bias, policy churn, catastrophic forgetting. Broader interests are reinforcement learning, computer vision, mathematics, programming to name a few. I attended Trinity College Dublin where I graduated with a masters and bachelors in engineering.
 
 Currently:
 * Research Engineer at [Instadeep](https://www.instadeep.com/research/) (applied reinforcement learning)
