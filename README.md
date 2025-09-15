@@ -3,7 +3,7 @@
 My Name is Manus. I am an AI researcher. I am particularly interested in failure modes and related phenomena in deep reinforcement learning (plasticity, policy churn, tandem effect, catastrophic forgetting). Broader interests are foundational models, programming, mathematics etc. I attended Trinity College Dublin where I graduated with a masters and bachelors in engineering.
 
 Currently:
-* Member of Technical Staff at [Microsoft AI]([https://www.instadeep.com/research/](https://microsoft.ai/)) (LLMs + reinforcement learning)
+* Member of Technical Staff at [Microsoft AI](https://microsoft.ai/) (LLMs + reinforcement learning)
   
 Previously:
 * Research Engineer at [Instadeep](https://www.instadeep.com/research/) (large-scale RL, protein language models, quantum machine learning)
